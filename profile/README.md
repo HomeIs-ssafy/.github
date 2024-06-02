@@ -10,7 +10,7 @@
 |![81612834](https://github.com/sjsin0905/sjsin0905/assets/97722177/6246d59b-0561-4dce-8328-c09644af5fce)|![57339517](https://github.com/sjsin0905/sjsin0905/assets/97722177/87931d0c-68c2-4183-a7cf-8a3a17103ec2)|![97722177](https://github.com/sjsin0905/sjsin0905/assets/97722177/fe3c0a32-9153-4e1f-9bb8-521b53ad93cb)|
 |:---:|:---:|:---:|
 |장준석|조성정|조용훈|
-|[@junseok-99](https://github.com/junseok-99)|[@Jo-SeongJeong](https://github.com/zosunny)|[@sjsin0905](https://github.com/sjsin0905)|
+|[@junseok-99](https://github.com/junseok-99)|[@Jo-SeongJeong](https://github.com/Jo-SeongJeong)|[@sjsin0905](https://github.com/sjsin0905)|
 
 
 ## 🌳 API 명세서
