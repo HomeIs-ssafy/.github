@@ -1,4 +1,4 @@
-![image](https://github.com/HomeIs-ssafy/.github/assets/97722177/ff786926-f5d9-4add-9ded-f5efd34e0489)# HomeIs
+# HomeIs
 커뮤니티 기반 부동산 정보 제공 및 대출 상품 추천 서비스
 
 
